@@ -930,6 +930,9 @@ textarea {
     font-weight: 700;
     padding: 10px 0 0 0;
   }
+  .information__box table td {
+    padding-bottom: 10px;
+  }  
   .googlemap__box {
     width: 100%;
     left: 0;
